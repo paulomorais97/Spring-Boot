@@ -12,4 +12,8 @@ public class MinhaPrimeiraAplicacao {
 	public String minhaPrimeiraAplicacao() {
 		return "Persistencia e Atenção aos Detalhes";
 	}
+//	@GetMapping("/get2")
+//	public String controller() {
+//		return "Persistencia e Atenção aos Detalhes e blablabla";
+//	}
 }
